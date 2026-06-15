@@ -9,6 +9,26 @@ cv:
   pdf: "assets/Joyce_TE.pdf"
 ---
 
+## Instructor of Record
+
+*Comparative Politics and Ethics (Graduate Level), Fall 2026*
+
+*Introduction to Political Science (Graduate Level), Summer 2026*
+
+*Quantitative Analysis for Social Science, Fall 2025 (Instructor effectiveness eval: 1.54, 1 = highest to 5 = lowest)*
+
+## Teaching Assistant
+
+*Methods Support for Honors Theses & Advanced Seminars, Spring 2026*
+
+*First Year Writing Intensive Seminar, Fall 2025*
+
+*U.S Elections 2024, Fall 2024*
+
+*Houston Action Research Team, Rice Center for Civic Leadership, Fall 2022 - Spring 2024*
+
+## Teaching Effectiveness
+
 ```{css echo=FALSE}
 .embed-container {
     position: relative;

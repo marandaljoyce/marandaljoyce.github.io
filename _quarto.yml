@@ -31,7 +31,7 @@ website:
 format:
   html:
     include-in-header: header.html
-    theme: cosmo
+    theme: darkly
     css: styles.css
     toc: true
 
