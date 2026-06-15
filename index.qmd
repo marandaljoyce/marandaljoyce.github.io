@@ -1,0 +1,45 @@
+---
+title: "Maranda Joyce"
+pagetitle: "Maranda Joyce"
+subtitle: "PhD Candidate,<br>Rice University"
+image: assets/images/head.JPG
+
+about: 
+  template: trestles
+  image-width: 18em
+  image-shape: rounded
+  id: hero-heading
+  links:
+    - text: E-mail
+      icon: envelope
+      href: mailto:mlj6@rice.edu
+    - text: "{{< fa brands bluesky>}} Bluesky"
+      href: https://bsky.app/profile/marandajoyce.bsky.social
+      target: _blank
+    - text: "{{< fa brands google-scholar>}} Google Scholar"
+      href: https://scholar.google.com/citations?user=Yh7ORcsAAAAJ&hl=en
+      target: _blank
+    - text: GitHub
+      icon: github
+      href: https://github.com/marandaljoyce
+      target: _blank
+      
+format:
+  html:
+    grid:
+      body-width: 1200px
+---
+
+::: {#hero-heading}
+::: h1
+Welcome!
+:::
+
+I am a PhD candidate in Political Science with a focus in political behavior. My research investigates the sources and consequences of anti-democratic political behavior. I am particularly focused on anti-democratic behavior in the context of US local politics, studying declining participation in public institutions and rising violence directed against local politicians.
+
+In my job market paper, I investigate parental withdrawal from public schools through homeschooling. Using original state-representative survey data and newly collected demographics of local school leadership, I find that families are more likely to homeschool when public schools serve higher numbers of non-white students, especially in resource-constrained settings. In related work, I analyze the costs of politicized, high-conflict school board meetings on local governance, finding that conflictual public meetings lead to higher superintendent turnover. I also study threats of violence against politicians, exploring how politicians' characteristics (race and gender) matter for whether or not the public tolerates violence against political figures.
+
+Methodologically, I employ a range of quantitative research methods, including survey experiments, large-N observational analysis, and audit studies. I have served as an instructor of record, teaching research methods to undergraduate political science students at Rice University. My research and teaching is informed by my professional experience in the Texas policy and nonprofit sector, where I worked in PK--12 education research and refugee resettlement. I am eager to teach courses in political behavior, race and gender, education policy, American politics, and research methods.
+
+I hold a Master's degree in Public Affairs from the University of Texas at Austin's LBJ School of Public Affairs and a BA in Economics from Southwestern University. In my free time, I love to hike, try new restaurants, and relax with my two cats, Kona and Yogi.
+:::

@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - assets/images/
+
+website:
+  title: "Maranda Joyce" 
+  navbar:
+    search: false
+    background: "#325d88"
+    right:
+      - href: index.qmd 
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      - href: teaching.qmd
+        text: Teaching
+      - icon: envelope
+        href: mailto:mlj6@rice.edu
+      - text: "{{< fa brands bluesky>}}"
+        href: https://bsky.app/profile/marandajoyce.bsky.social
+        target: _blank
+  page-footer:
+    background: light
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/connerbjoyce){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+
+
+format:
+  html:
+    include-in-header: header.html
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
+
+
