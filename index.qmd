@@ -2,7 +2,7 @@
 title: "Maranda Joyce"
 pagetitle: "Maranda Joyce"
 subtitle: "PhD Candidate,<br>Rice University"
-image: assets/images/head.JPG
+image: assets/images/head.jpeg
 
 about: 
   template: trestles
